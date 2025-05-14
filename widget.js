@@ -37,3 +37,7 @@
       console.error("API Error:", error);
     });
 })();
+
+function sayHello() {
+  console.log("Hello from the widget!");
+}

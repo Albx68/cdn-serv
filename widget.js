@@ -25,11 +25,11 @@
       div.style.bottom = "20px";
       div.style.right = "20px";
       div.style.padding = "10px";
-      div.style.background = "#28a745";
+      div.style.background = "#333";
       div.style.color = "#fff";
       div.style.borderRadius = "5px";
       div.style.zIndex = "9999";
-      div.innerText = `API Title: ${data.title || "No Title"}`;
+      div.innerText = `<3`;
 
       document.body.appendChild(div);
     })
